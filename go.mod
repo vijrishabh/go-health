@@ -1,7 +1,8 @@
-module github.com/InVisionApp/go-health/v2
+module github.com/vijrishabh/go-health/v2
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.3.3
+	github.com/InVisionApp/go-health/v2 v2.1.2
 	github.com/InVisionApp/go-logger v1.0.1
 	github.com/StackExchange/wmi v1.2.1 // indirect
 	github.com/alicebob/gopher-json v0.0.0-20200520072559-a9ecdc9d1d3a // indirect
