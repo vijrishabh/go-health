@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/InVisionApp/go-logger"
+	log "github.com/vijrishabh/go-logger"
 )
 
 //go:generate counterfeiter -o ./fakes/icheckable.go . ICheckable
